@@ -1,0 +1,14 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-17-4760
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=17 type=1 insize=3695 outsize=7 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=17 type=1 insize=3695 outsize=7 kw=SPOT pd= ok=1
+Cmd: compileSnippet
+  api=17 type=1 insize=3695 outsize=7 kw=POINT_COOKIE pd= ok=1
+Cmd: compileSnippet
+  api=17 type=1 insize=3695 outsize=7 kw=DIRECTIONAL_COOKIE pd= ok=1
+Cmd: compileSnippet
+
+Crashed!

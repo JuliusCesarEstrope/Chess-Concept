@@ -1,0 +1,8 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-12-4760
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=17 type=1 insize=6924 outsize=7 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+
+Crashed!

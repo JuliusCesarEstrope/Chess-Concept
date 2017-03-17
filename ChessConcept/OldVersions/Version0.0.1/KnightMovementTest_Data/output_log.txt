@@ -1,0 +1,22 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7340 Graphics (ID=0x9808)
+    Vendor:   ATI
+    VRAM:     373 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Documents\ChessConcept\KnightMovementTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.341 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
